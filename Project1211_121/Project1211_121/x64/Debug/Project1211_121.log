@@ -1,0 +1,3 @@
+﻿  FileName11_12.cpp
+C:\Users\sw4_5\source\repos\Project1211_121\FileName11_12.cpp(12,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project1211_121.vcxproj -> C:\Users\sw4_5\source\repos\Project1211_121\x64\Debug\Project1211_121.exe
